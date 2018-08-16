@@ -1,6 +1,8 @@
 # breeze
 
-TODO: Write a description here
+A library for wireless interface manipulation.
+
+Very much a WIP
 
 ## Installation
 
@@ -9,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   breeze:
-    github: your-github-user/breeze
+    github: MisterBianco/breeze
 ```
 
 ## Usage
@@ -18,7 +20,7 @@ dependencies:
 require "breeze"
 ```
 
-TODO: Write usage instructions here
+Write usage instructions here
 
 ## Development
 
@@ -26,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/breeze/fork>)
+1. Fork it (<https://github.com/MisterBianco/breeze/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -34,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) Jacobsin - creator, maintainer
+- [MisterBianco](https://github.com/MisterBianco) Jacobsin - creator, maintainer
