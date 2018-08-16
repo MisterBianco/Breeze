@@ -1,0 +1,9 @@
+name: breeze
+version: 0.1.0
+
+authors:
+  - Jacobsin <jacobsin1996@gmail.com>
+
+crystal: 0.26.0
+
+license: MIT
